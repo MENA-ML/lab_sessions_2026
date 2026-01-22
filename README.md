@@ -14,7 +14,7 @@ Designed for those establishing their footing in Machine Learning, focusing on c
 | :--- | :--- |
 | **Beginner PyTorch + MLP** | **Gergo Ignacz** (KAUST, **Amr Khalifa** (GDM)) |
 | **Transformer with PyTorch** | **Juan Carlos Alcazar** (KAUST), **Amr Khalifa** (GDM) |
-| **Python Gym** | **Tamara Norman** (GDM) |
+| **Efficient Python** | **Tamara Norman** (GDM) |
 
 ### 🌳 Advanced Track
 Designed for experienced practitioners looking to dive into specialized applications and state-of-the-art methodologies.
